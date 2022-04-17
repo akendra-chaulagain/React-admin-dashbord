@@ -12,9 +12,9 @@ import SingleUser from "./pages/singleuser/SingleUser";
 import Allproduct from "./pages/product/Allproduct";
 import Update from "./pages/updateProduct/Update";
 import NewProduct from "./pages/new/NewProduct";
-import Login from "./pages/login/Login";
 import Order from "./pages/order/Order";
 import ViewOrder from "./pages/View/ViewOrder";
+import Login from "./pages/login/Login";
 
 const App = () => {
   // const user = useSelector((state) => state.user.currentUser);
