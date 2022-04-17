@@ -15,6 +15,8 @@ import NewProduct from "./pages/new/NewProduct";
 import Order from "./pages/order/Order";
 import ViewOrder from "./pages/View/ViewOrder";
 import Login from "./pages/login/Login";
+import { useSelector } from "react-redux";
+// import { Navigate } from "react-router-dom";
 
 const App = () => {
   // const user = useSelector((state) => state.user.currentUser);
