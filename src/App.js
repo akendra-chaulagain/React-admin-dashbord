@@ -10,11 +10,12 @@ import Topbar from "./components/navbar/Topbar";
 import List from "./pages/list/List";
 import SingleUser from "./pages/singleuser/SingleUser";
 import Allproduct from "./pages/product/Allproduct";
-import Update from "./pages/updateProduct/Update";
-import NewProduct from "./pages/new/NewProduct";
+
 import Order from "./pages/order/Order";
 import ViewOrder from "./pages/View/ViewOrder";
 import Login from "./pages/login/Login";
+import Update from "./pages/updateProduct/Update";
+import NewProduct from "./pages/new/NewProduct";
 // import { Navigate } from "react-router-dom";
 
 const App = () => {
